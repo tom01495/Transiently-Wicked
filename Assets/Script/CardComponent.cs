@@ -6,15 +6,4 @@ using UnityEngine;
 public class CardComponent : MonoBehaviour {
    
     public Card c;
-
-
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }
